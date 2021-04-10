@@ -1,0 +1,15 @@
+.container{
+    max-width: 600px;
+    border: solid 1px rgb(202, 202, 202);
+    margin: auto;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+div{
+    display: block;
+}
+.profilPhoto{
+    padding: 10px 0;
+}
